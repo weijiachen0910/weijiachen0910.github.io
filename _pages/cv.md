@@ -7,58 +7,63 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### M.A. in Chinese Language and Literature
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*Linguistics and Applied Linguistics*, Nanjing University<br>
+September 2024–June 2027 (expected) · Weighted average: 90.57/100<br>
+Advisor: Anqi Zhang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Selected graduate coursework:** *Linguistic Typology and East Asian Languages Studies*; *A Monographic Study on the History of Chinese Language*<br>
+**Additional training:** *Advanced Semantics*, doctoral seminar (non-credit), Spring 2025 and Spring 2026
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### B.A. in Chinese Language and Literature
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*Chinese Paleography*, Nanjing University<br>
+June 2024 · GPA: 4.52/5.00<br>
+Advisor: Anqi Zhang
+
+**Thesis:** *Wh*-in-situ and Related Issues in Archaic Chinese Interrogatives
+
+**Selected undergraduate coursework:** *An Introduction to Linguistics*; *An Introduction to Syntax*; *Chinese Paleography (Advanced Class)*; *Guide to the Excavated Texts (Intermediate Class)*
+
+## Research Interests
+
+Formal syntax; syntax–semantics interface; event semantics; historical linguistics; Chinese linguistics
+
+## Publications & Manuscripts
+
+**Chen, Weijia** & Anqi Zhang. “A′-movement and the Internal Structure of *Yu* PPs in Archaic Chinese.” Manuscript in preparation.
+
+Zhang, Anqi & **Weijia Chen**. “Pragmaticalization, Pragmatic Fission, and the Emergence of Evaluative Completive *Hao* in Chinese.” *Zeitschrift für Sprachwissenschaft*. Accepted by the guest editors for a special issue; final journal approval pending.
+
+**Chen, Weijia.** 2024. “*Wh*-movement Concerning Prepositional Phrases in Archaic Chinese.” *ICU Working Papers in Linguistics* 31: 25–36. Selected papers from the 8th Asian Junior Linguists Conference.
+
+## Presentations
+
+**Chen, Weijia** & Anqi Zhang. 2026. “从上古汉语介词的疑问代词宾语移动现象看介词‘于’的性质” [The Nature of *Yu* in Archaic Chinese: Evidence from *Wh*-Movement in Prepositional Phrases]. The 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, China.
+
+Zhang, Anqi & **Weijia Chen**. 2025. “Emergence of Evaluative Completive *Hao* in Mandarin.” *Expressivity: Variation and Change*, 47th Annual Meeting of the German Linguistic Society (DGfS), Johannes Gutenberg University Mainz, Mainz, Germany.
+
+**Chen, Weijia.** 2023. “*Wh*-movements Concerning Prepositional Phrases in Archaic Chinese.” 8th Asian Junior Linguists Conference, National University of Singapore, Singapore.
+
+## Teaching Experience
+
+**Teaching Assistant, Introduction to Linguistics**<br>
+Nanjing University · September 2026–present
+
+- Assist with grading assignments and responding to student questions.
+- Facilitate small-group discussions.
+- Support course administration, including posting and proofreading course materials and maintaining attendance records.
+
+## Honors & Awards
+
+- Academic Scholarship, First Prize — 2024
+- Academic Scholarship, Second Prize — 2025
+- Special Scholarship for Fundamental Disciplines, Second Prize — 2022, 2023
+- People’s Scholarship, Second Prize — 2021
+
+## Languages
+
+Mandarin Chinese (native); English (IELTS Academic 7.5); Classical Chinese (research reading)
