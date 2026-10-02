@@ -49,7 +49,7 @@ Formal syntax; syntax–semantics interface; event semantics; historical linguis
 
 ## Publications
 
-**Chen, Weijia.** 2024. “*Wh*-movement Concerning Prepositional Phrases in Archaic Chinese.” *ICU Working Papers in Linguistics* 31: 25–36. *Selected Papers from the 8th Asian Junior Linguists Conference*. [DOI: 10.34577/0002000491](https://doi.org/10.34577/0002000491)
+**Chen, Weijia.** 2024. “*Wh*-movement Concerning Prepositional Phrases in Archaic Chinese.” *ICU Working Papers in Linguistics* 31: 25–36. *Selected Papers from the 8th Asian Junior Linguists Conference*.
 
 ## Manuscripts
 
