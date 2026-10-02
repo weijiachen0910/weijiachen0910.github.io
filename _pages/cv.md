@@ -24,7 +24,7 @@ Advisor: Anqi Zhang
 June 2024 · GPA: 4.52/5.00<br>
 Advisor: Anqi Zhang
 
-**Thesis:** *Wh*-in-situ and Related Issues in Archaic Chinese Interrogatives
+**Thesis:** *Wh-in-situ and Related Issues in Archaic Chinese Interrogatives*
 
 **Selected undergraduate coursework:** *An Introduction to Linguistics*; *An Introduction to Syntax*; *Chinese Paleography (Advanced Class)*; *Guide to the Excavated Texts (Intermediate Class)*
 
@@ -36,15 +36,15 @@ Formal syntax; syntax–semantics interface; event semantics; historical linguis
 
 **Chen, Weijia** & Anqi Zhang. “A′-movement and the Internal Structure of *Yu* PPs in Archaic Chinese.” Manuscript in preparation.
 
-Zhang, Anqi & **Weijia Chen**. “Pragmaticalization, Pragmatic Fission, and the Emergence of Evaluative Completive *Hao* in Chinese.” *Zeitschrift für Sprachwissenschaft*. Accepted by the guest editors for a special issue; final journal approval pending.
+Zhang, Anqi & **Weijia Chen**. “Pragmaticalization, pragmatic fission, and the emergence of evaluative completive *hao* in Chinese.” *Zeitschrift für Sprachwissenschaft*. Accepted by the guest editors for a special issue; final journal approval pending.
 
-**Chen, Weijia.** 2024. “*Wh*-movement Concerning Prepositional Phrases in Archaic Chinese.” *ICU Working Papers in Linguistics* 31: 25–36. Selected papers from the 8th Asian Junior Linguists Conference.
+**Chen, Weijia.** 2024. “*Wh*-movement Concerning Prepositional Phrases in Archaic Chinese.” *ICU Working Papers in Linguistics* 31: 25–36. *Selected Papers from the 8th Asian Junior Linguists Conference*.
 
 ## Presentations
 
 **Chen, Weijia** & Anqi Zhang. 2026. “从上古汉语介词的疑问代词宾语移动现象看介词‘于’的性质” [The Nature of *Yu* in Archaic Chinese: Evidence from *Wh*-Movement in Prepositional Phrases]. The 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, China.
 
-Zhang, Anqi & **Weijia Chen**. 2025. “Emergence of Evaluative Completive *Hao* in Mandarin.” *Expressivity: Variation and Change*, 47th Annual Meeting of the German Linguistic Society (DGfS), Johannes Gutenberg University Mainz, Mainz, Germany.
+Zhang, Anqi & **Weijia Chen**. 2025. “Emergence of Evaluative Completive *hao* in Mandarin.” *Expressivity: Variation and Change*, 47th Annual Meeting of the German Linguistic Society (DGfS), Johannes Gutenberg University Mainz, Mainz, Germany.
 
 **Chen, Weijia.** 2023. “*Wh*-movements Concerning Prepositional Phrases in Archaic Chinese.” 8th Asian Junior Linguists Conference, National University of Singapore, Singapore.
 

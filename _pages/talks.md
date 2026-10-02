@@ -16,7 +16,7 @@ author_profile: true
 
 </details>
 
-## Emergence of Evaluative Completive *Hao* in Mandarin
+## Emergence of Evaluative Completive *hao* in Mandarin
 
 Zhang, Anqi & **Weijia Chen**. 2025. *Expressivity: Variation and Change*, 47th Annual Meeting of the German Linguistic Society (DGfS), Johannes Gutenberg University Mainz, Mainz, Germany.
 
