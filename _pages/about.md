@@ -19,7 +19,7 @@ I am an M.A. student in Chinese Language and Literature (Linguistics and Applied
 
 ## Contact
 
-Department of Chinese Language and Literature, Nanjing University<br>
+School of Liberal Arts, Nanjing University<br>
 [weijiachen@smail.nju.edu.cn](mailto:weijiachen@smail.nju.edu.cn)
 
 <section class="photo-preview-section">
