@@ -24,7 +24,7 @@ Department of Chinese Language and Literature, Nanjing University<br>
 
 <section class="photo-preview-section">
   <h2>Photography <a href="/visual-notes/">View photographs</a></h2>
-  <p>Outside linguistics, I enjoy birdwatching and bird photography.</p>
+  <p>In my spare time, I enjoy birdwatching and photography.</p>
   <div class="photo-preview-grid" aria-label="Photography preview">
     <a href="/visual-notes/" aria-label="View photography"><img src="/images/photography/01-sky-bird.jpg" alt="A bird perched on a streetlight against a pale blue sky" loading="lazy"></a>
     <a href="/visual-notes/" aria-label="View photography"><img src="/images/photography/04-meerkat.jpg" alt="A meerkat looking over a rock in sunlight" loading="lazy"></a>

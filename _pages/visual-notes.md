@@ -5,7 +5,7 @@ permalink: /visual-notes/
 author_profile: true
 ---
 
-Outside linguistics, I enjoy birdwatching and bird photography.
+In my spare time, I enjoy birdwatching and photography.
 
 <div class="photo-grid" aria-label="Photography selection">
   <figure class="feature-wide"><a href="/images/photography/01-sky-bird.jpg" target="_blank" rel="noopener" aria-label="Open the full image"><img src="/images/photography/01-sky-bird.jpg" alt="A bird perched on a streetlight against a pale blue sky"></a></figure>
