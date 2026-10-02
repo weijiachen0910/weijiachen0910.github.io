@@ -15,7 +15,7 @@ I am an M.A. student in Chinese Language and Literature (Linguistics and Applied
 *Linguistics and Applied Linguistics*, Nanjing University · September 2024–June 2027 (expected)
 
 **B.A. in Chinese Language and Literature**<br>
-*Chinese Paleography*, Nanjing University · June 2024
+*Chinese Paleography*, Nanjing University · September 2020–June 2024
 
 ## Contact
 

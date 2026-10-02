@@ -21,7 +21,7 @@ Advisor: Anqi Zhang
 ### B.A. in Chinese Language and Literature
 
 *Chinese Paleography*, Nanjing University<br>
-June 2024 · GPA: 4.52/5.00<br>
+September 2020–June 2024 · GPA: 4.52/5.00<br>
 Advisor: Anqi Zhang
 
 **Thesis:** *Wh-in-situ and Related Issues in Archaic Chinese Interrogatives*
