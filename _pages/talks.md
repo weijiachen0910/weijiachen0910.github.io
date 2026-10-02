@@ -7,7 +7,7 @@ author_profile: true
 
 ## 从上古汉语介词的疑问代词宾语移动现象看介词“于”的性质
 
-**Chen, Weijia** & Anqi Zhang. 2026. “The Nature of *Yu* in Archaic Chinese: Evidence from *Wh*-Movement in Prepositional Phrases.” The 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, China.
+**Chen, Weijia** & Anqi Zhang. June 2026. “The Nature of *Yu* in Archaic Chinese: Evidence from *Wh*-Movement in Prepositional Phrases.” The 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Guangdong University of Foreign Studies, Guangzhou, China.
 
 <details class="talk-abstract" markdown="1">
 <summary>Abstract</summary>
@@ -18,7 +18,7 @@ author_profile: true
 
 ## Emergence of Evaluative Completive *hao* in Mandarin
 
-Zhang, Anqi & **Weijia Chen**. 2025. *Expressivity: Variation and Change*, 47th Annual Meeting of the German Linguistic Society (DGfS), Johannes Gutenberg University Mainz, Mainz, Germany.
+Zhang, Anqi & **Weijia Chen**. March 2025. *Expressivity: Variation and Change*, 47th Annual Meeting of the German Linguistic Society (DGfS), Johannes Gutenberg University Mainz, Mainz, Germany. Presented the section on the historical development of -*hao*.
 
 <details class="talk-abstract" markdown="1">
 <summary>Abstract</summary>
@@ -29,7 +29,7 @@ Completive markers can contribute speaker-oriented attitudes in several East Asi
 
 ## *Wh*-movements Concerning Prepositional Phrases in Archaic Chinese
 
-**Chen, Weijia.** 2023. 8th Asian Junior Linguists Conference, National University of Singapore, Singapore.
+**Chen, Weijia.** November 2023. 8th Asian Junior Linguists Conference, National University of Singapore, Singapore.
 
 <details class="talk-abstract" markdown="1">
 <summary>Abstract</summary>
